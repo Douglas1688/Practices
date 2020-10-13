@@ -1,0 +1,4 @@
+Comienzo del textoa estudiar Python 
+Esta línea ha sido incluida desde el exterior
+Esta línea ha sido incluida desde el exterior
+ siempre es una buena ocasión para estudiar PythonEsto es lo último que he escrito 
